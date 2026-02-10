@@ -1,6 +1,7 @@
 <?php
-/*
-Template Name: Homepage
+/**
+ * Template Name: Home Page
+ * Description: A custom homepage template for my personal site.
 */
 get_header();
 ?>
